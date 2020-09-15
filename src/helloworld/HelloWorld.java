@@ -15,7 +15,7 @@ public class HelloWorld {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hello World, Ethan Foster Assignment 0, CPRG 352");
+        System.out.println("Hello World, Ethan Foster, Lab Week 02");
     }
     
 }
